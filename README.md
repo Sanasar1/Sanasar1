@@ -16,7 +16,15 @@
 
 ###
 
-<p align="left">✨ Working as a Software Engineer since 2024<br>✨ Additionally have expertise in Machine Learning<br>📚 BSc in Applied Mathematics and Information Science as well as Data Science and Business Analytics<br>📚 Currently working on my Master's degree in the same field<br>🎯 Constantly striving to improve my skills to be able to help as many people as possible through my expertise<br>🎲 Love board games and traveling</p>
+<p align="left">
+💻 Software Engineer | Building solutions since 2024<br>
+🧠 Machine Learning | Enhancing systems with data-driven insights<br>
+🎓 BSc in Applied Mathematics & Information Science | <em>Higher School of Economics</em><br>
+📊 BSc in Data Science & Business Analytics | <em>University of London</em><br>
+📘 Pursuing MSc in Advanced Data Science | Bridging software engineering & AI<br>
+🌍 Passionate about empowering communities through scalable tech<br>
+🎲 Board game strategist | ✈️ Cultural explorer via global travel
+</p>
 
 ###
 
