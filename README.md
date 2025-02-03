@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="left">Hello World! I'm Sanasar, a Software Engineer from Russia</h1>
+<h1 align="left">👋 Hi, I'm Sanasar! I write code, solve problems, and make ideas come to life</h1>
 
 ###
 
